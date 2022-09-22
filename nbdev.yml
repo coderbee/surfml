@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "surfml"
+  site-url: "https://coderbee.github.io/surfml"
+  description: "Surfing the waves of AI/ML"
+  repo-branch: main
+  repo-url: "https://github.com/coderbee/surfml"
